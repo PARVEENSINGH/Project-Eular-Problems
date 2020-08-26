@@ -33,7 +33,6 @@ int getPrime(int upper_limit)
              list.push_back(i);
              count++;
         }
-           
         i+=2;    
     }
 
